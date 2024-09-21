@@ -1,6 +1,6 @@
 # Hi, I'm M!
 
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=000000)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=fff&color=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat&color=000000)
 ![Rust](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&color=000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&color=000000)

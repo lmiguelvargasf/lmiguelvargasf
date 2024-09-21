@@ -17,3 +17,4 @@ I thrive on solving complex problems ðŸ§© and developing innovative solutions ðŸ
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lmiguelvargasf/)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/3705840/lmiguelvargasf)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white)](mailto:lmiguelvargasf@gmail.com)

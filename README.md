@@ -7,7 +7,6 @@
 ![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=000000)
 ![Next.js](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=fff&color=000000)
 
 I have been working with startups since 2017, gaining experience across various industries, including real estate 🏠, charity 🎗️, fashion 👗, fintech 🏦, delivery 🚚, construction 🏗️, and currently healthcare 🏥.
 

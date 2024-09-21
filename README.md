@@ -10,7 +10,7 @@
 
 I have been working with startups since 2017, gaining experience across various industries, including real estate 🏠, charity 🎗️, fashion 👗, fintech 🏦, delivery 🚚, construction 🏗️, and currently healthcare 🏥.
 
-I thrive on solving complex problems 🧩 and developing innovative solutions 💡. With a solid foundation in mathematics 📐 and physics ⚛️, I approach challenges analytically 🧠 and creatively 🎨.
+I thrive on solving complex problems and developing innovative solutions 🚀. With a solid foundation in mathematics 📐 and physics ⚛️, I approach challenges analytically and creatively ⚙️.
 
 
 ### 📬 Find me at

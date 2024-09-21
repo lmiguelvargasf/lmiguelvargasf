@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-black?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-black?logo=django&logoColor=44B78B)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED)
 

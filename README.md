@@ -9,6 +9,6 @@
 ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&color=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&color=000000)
 
-I have been working with startups since 2017, gaining experience across various industries, including real estate 🏠, charity 🎗️, fashion 👗, fintech 💳, delivery 🚚, construction 🏗️, and currently healthcare 🏥.
+I have been working with startups since 2017, gaining experience across various industries, including real estate 🏠, charity 🎗️, fashion 👗, fintech 🏦, delivery 🚚, construction 🏗️, and currently healthcare 🏥.
 
 I thrive on solving complex problems 🧩 and developing innovative solutions 💡. With a solid foundation in mathematics 📐 and physics ⚛️, I approach challenges analytically 🧠 and creatively 🎨.

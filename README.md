@@ -11,3 +11,9 @@
 I have been working with startups since 2017, gaining experience across various industries, including real estate 🏠, charity 🎗️, fashion 👗, fintech 🏦, delivery 🚚, construction 🏗️, and currently healthcare 🏥.
 
 I thrive on solving complex problems 🧩 and developing innovative solutions 💡. With a solid foundation in mathematics 📐 and physics ⚛️, I approach challenges analytically 🧠 and creatively 🎨.
+
+
+### 📬 Find me at
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lmiguelvargasf/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/3705840/lmiguelvargasf)

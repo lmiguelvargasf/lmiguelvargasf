@@ -1,7 +1,7 @@
 # Hi, I'm M!
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=3178C6    )
+![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-black?logo=django&logoColor=white)
